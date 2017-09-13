@@ -10,6 +10,12 @@ Header.propTypes = {
   title: React.PropTypes.string.isRequired,
 }
 
+function Player(props) {
+  return (
+    
+  )
+}
+
 function Application(props) {
   return (
     <Header title={props.title}/>
