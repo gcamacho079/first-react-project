@@ -1,3 +1,6 @@
+
+
+
 function Header(props) {
   return (
     <div className="header">
@@ -12,7 +15,7 @@ Header.propTypes = {
 
 function Player(props) {
   return (
-    
+
   )
 }
 
